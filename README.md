@@ -9,4 +9,4 @@ Credit: "Global Map of Mozambique © ISCGM/CENACARTA"
 
 Contact: CENACARTA 
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/mozambique.png)
+E-mail: ![email](email.png)
